@@ -6,15 +6,15 @@
   "id": "did:web:ccrdepatesttdp.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:ccrdepatesttdp.github.io#24b480db99a86e3439298d4f631b8438a5f2fe575b9bd6c204575baa11766a3b",
+      "id": "did:web:ccrdepatesttdp.github.io#4e28aa8268a910a9c4746b18d71cdc1925cb38f39b3d504120152c4fec434c30",
       "type": "JsonWebKey2020",
       "controller": "did:web:ccrdepatesttdp.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "VafZII8ZH5orZ_ULD98ouZd04WcYST0Pw6MrlT4cIuM=",
-        "y": "qQ-rzY_iXiflRApwcCGI1slIy2K5LqrQPyueLFBQ-f8=",
-        "kid": "24b480db99a86e3439298d4f631b8438a5f2fe575b9bd6c204575baa11766a3b",
+        "x": "6MXFMnxZYsiAWrgpY9E4Kfk5tNhodbT6JR3k0cRLnDE=",
+        "y": "XCtbDz2ysAzlBP2WAey3pLlO74kfuKd-6Z-B9l_tcM0=",
+        "kid": "4e28aa8268a910a9c4746b18d71cdc1925cb38f39b3d504120152c4fec434c30",
         "alg": "ES256"
       }
     }
